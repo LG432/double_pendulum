@@ -1,4 +1,4 @@
-#Double Pendulum Simulation in Python
+# Double Pendulum Simulation in Python
 
 This project simulates and visualises the **double pendulum** system by solving a system of ODEs derived from **Lagrangian mechanics**.
 
